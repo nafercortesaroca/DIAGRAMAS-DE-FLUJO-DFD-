@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+dinero
+1
+0
+2
+g1
+1
+4
+2
+g2
+1
+9
+6
+2
+12
+participante
+1
+0
+7
+ganador
+1
+0
+9
+1
+12
+ganador <= 2
+4
+1
+18
+'indique su numeo'
+5
+1
+4
+n, a
+7
+0
+1
+12
+n=g1 or n=g2
+4
+1
+18
+'sigue intentando'
+13
+6
+1
+7
+ganador
+9
+ganador+1
+13
+6
+2
+6
+dinero
+8
+dinero+a
+12
+participante
+14
+participante+1
+4
+1
+70
+'cantidad de participantes:', participante, 'plata recaudada:', dinero
+11
+1
